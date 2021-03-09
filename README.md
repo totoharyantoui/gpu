@@ -1,7 +1,7 @@
 # gpu
 Sebelum masuk ke program, untuk mengetahui spesifiksai umum dan apakah GPU sedang digunakan atau tidak, dapat digunakan perintah :
 
-nvidsmi 
+nvida-smi  
 
 Berikut adalah penjelasan dari Program move.cu
 <br>
